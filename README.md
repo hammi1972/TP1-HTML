@@ -1,4 +1,4 @@
 #WEB
 ---------------------------
-WEB APPLICATION DEVOLOPMENT
+WEB APPLICATION DEVELOPMENT
 ---------------------------
